@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@mantine/core": "^5.0.0",
+    "@mantine/core": "^5.10.5",
     "@mantine/hooks": "^5.0.0",
     "@minoru/react-dnd-treeview": "^3.0.0",
     "@tauri-apps/api": "^1.0.1",
